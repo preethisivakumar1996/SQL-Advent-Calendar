@@ -1,3 +1,7 @@
+-- A community is hosting a series of festive feasts, and they want to ensure a balanced menu. 
+-- Write a query to identify the top 3 most calorie-dense dishes (calories per gram) served for each event. 
+-- Include the dish_name, event_name, and the calculated calorie density in your results.
+
 WITH Ranked_Dishes AS (
     SELECT 
         menu.dish_name,
