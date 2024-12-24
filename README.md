@@ -20,5 +20,9 @@ The SQL Advent Calendar is a fun and interactive way to enhance SQL skills throu
 | 2   | Beginner   | Filter by specific conditions |
 | ... | ...        | ...                           |
 
+## Links 🔗 
+- View the original challenges on the [SQL Advent Calendar Website](https://www.sqlcalendar.com/app/advent-calendar).
+- Check out the solutions in this repository.
+
 ## Connect with Me 🌐
-If you found this repository helpful, feel free to connect with me on [LinkedIn]([https://linkedin.com/in/preethi-sivakumar/196](https://www.linkedin.com/in/preethisivakumar196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)). Let's grow and learn together!
+If you found this repository helpful, feel free to connect with me on [LinkedIn-Preethi Sivakumar](https://www.linkedin.com/in/preethisivakumar196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app). Let's grow and learn together!
