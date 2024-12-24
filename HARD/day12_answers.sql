@@ -1,3 +1,6 @@
+--A collector wants to identify the top 3 snow globes with the highest number of figurines. 
+-- Write a query to rank them and include their globe_name, number of figurines, and material.
+
 WITH Rank_Them AS
 (SELECT
 snow_globes.globe_name,
