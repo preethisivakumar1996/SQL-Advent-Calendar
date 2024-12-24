@@ -21,4 +21,4 @@ The SQL Advent Calendar is a fun and interactive way to enhance SQL skills throu
 | ... | ...        | ...                           |
 
 ## Connect with Me 🌐
-If you found this repository helpful, feel free to connect with me on [LinkedIn-Preethi_Sivakumar]([https://linkedin.com/in/preethi-sivakumar/196](https://www.linkedin.com/in/preethisivakumar196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)).Let's grow and learn together!
+If you found this repository helpful, feel free to connect with me on [LinkedIn]([https://linkedin.com/in/preethi-sivakumar/196](https://www.linkedin.com/in/preethisivakumar196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)). Let's grow and learn together!
